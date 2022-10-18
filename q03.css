@@ -1,0 +1,11 @@
+p{
+    text-align: justify;
+}
+*{
+    border: 1px solid plum;
+}
+body{
+    width: 50%;
+    margin: auto;
+    max-width: 400px;
+}
